@@ -1,0 +1,22 @@
+.nav {
+  width: 100vw;
+  height: 100px;
+  background-color: white;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+.add {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 50px;
+  background-color: rgb(238, 69, 69);
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
